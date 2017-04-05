@@ -1,0 +1,15 @@
+.vs/
+ComicPresence.Common/bin
+ComicPresence.Common/obj
+ComicPresence.Data/bin
+ComicPresence.Data/obj
+ComicPresence.Infrastructure/bin
+ComicPresence.Infrastructure/obj
+ComicPresence.Model/bin
+ComicPresence.Model/obj
+ComicPresence.Service/bin
+ComicPresence.Service/obj
+ComicPresence.Web/bin
+ComicPresence.Web/obj
+Data/indexes/
+Data/logs/

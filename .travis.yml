@@ -1,0 +1,6 @@
+language: csharp
+	solution: ComicPresence.sln
+	install:
+		- nuget restore ComicPresence.sln
+	script:		# This is main build function. TODO: Add test and grep results for tests.
+		- ./build.sh
