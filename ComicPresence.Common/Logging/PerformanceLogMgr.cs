@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Threading;
 
-using ComicPresence.Common.Config;
 using ComicPresence.Common.Patterns;
 
 namespace ComicPresence.Common.Logging
@@ -37,7 +36,7 @@ namespace ComicPresence.Common.Logging
         {
             get
             {
-                return AppSettingMgr.Instance.GetValue<bool>(AppSettingId.PerformanceLoggingEnabled);
+                return false;
             }
         }
 
