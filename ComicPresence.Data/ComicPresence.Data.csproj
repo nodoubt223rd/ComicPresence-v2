@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Connections\DataConnection.cs" />
+    <Compile Include="Infrastructure\Interfaces\IUnitOfWork.cs" />
     <Compile Include="Interfaces\IComicRepo.cs" />
     <Compile Include="Interfaces\IRepoBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

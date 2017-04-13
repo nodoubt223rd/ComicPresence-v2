@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicPresence.Common", "ComicPresence.Common\ComicPresence.Common.csproj", "{E5890AAF-64A5-4E38-BA7B-499A5F53A137}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicPresence.Model", "ComicPresence.Model\ComicPresence.Model.csproj", "{EC905F17-76E9-4900-94C5-45C5F931E911}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicPresence.Web", "ComicPresence.Web\ComicPresence.Web.csproj", "{E71F95B6-0953-43AA-A275-224FE9651A83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicPresence.Core", "ComicPresence.Core\ComicPresence.Core.csproj", "{BECE85B8-1C00-40F9-916F-6F340CFEB9AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{E71F95B6-0953-43AA-A275-224FE9651A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E71F95B6-0953-43AA-A275-224FE9651A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E71F95B6-0953-43AA-A275-224FE9651A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BECE85B8-1C00-40F9-916F-6F340CFEB9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECE85B8-1C00-40F9-916F-6F340CFEB9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECE85B8-1C00-40F9-916F-6F340CFEB9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECE85B8-1C00-40F9-916F-6F340CFEB9AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
